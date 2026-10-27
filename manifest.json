@@ -1,0 +1,10 @@
+{
+  "name": "House Warming Ceremony - Barhoom Palace",
+  "short_name": "Barhoom Palace",
+  "description": "House Warming Ceremony Invitation of Barhoom Family at Barhoom Palace",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#04291D",
+  "theme_color": "#04291D",
+  "icons": []
+}
